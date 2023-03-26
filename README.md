@@ -21,8 +21,7 @@
   node index.js (from within Develop Folder)
 
   ## Contributors:
-  ### undefined
-
+  TA's, UofT Bootcamp Starter Code
 
   ## Tests
   Run Index.js
